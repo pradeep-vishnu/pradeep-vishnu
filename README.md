@@ -1,3 +1,3 @@
 ### Hello there 👋
 
-<img src="giphy.gif" width="500"/> 
+<img src="giphy.gif" width="300"/> 
